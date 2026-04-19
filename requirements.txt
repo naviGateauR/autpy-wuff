@@ -1,0 +1,5 @@
+rich
+mypy
+typer
+requests
+types-requests

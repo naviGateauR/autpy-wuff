@@ -1,0 +1,2 @@
+class WuffException(BaseException):
+    pass
